@@ -1,3 +1,3 @@
 # InfyOm Laravel Generator with Metronic Templates Boilerplate
 
-### Docs are on the way...
+## THIS PACKAGE IS DEPRECATED. USE [InfyOmLabs/adminlte-generator](https://github.com/InfyOmLabs/adminlte-generator) which is actively maintained.
